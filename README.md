@@ -38,4 +38,5 @@ pip3 install cv2 math numpy matplotlib.pyplot
 ```
 python3 main.py
 ```
-## Step: 5- Results 
+## Step: 5- Results  
+![Final_AIAA (1) (online-video-cutter com)](https://github.com/Ravi123pashchapur/Low-Budget-Motion-Capture-System-Like-a-VICON-System/assets/56997905/28129a00-bb0e-4c15-a520-b89a755c1ed7)
