@@ -9,9 +9,11 @@ This repo provides user to setup low-budget system which is ingeniously designed
 # Step: 2 - Hardware Requirement
 --> ELP or any USB camera with brightness adjustment.  
 --> USB connector.  
---> Central Processing system (Laptop or PC). 
+--> Central Processing system (Laptop or PC).  
+--> LEDs (Red or Green)
 
 # Step: 3- Arrangement
+--> Added The LED on object you want to track.  
 --> Connect multiple cameras in given space to hub (Laptop).  
 --> Read and cite the paper mention in this repo for camera calibrations.
 
@@ -20,3 +22,4 @@ This repo provides user to setup low-budget system which is ingeniously designed
 ```
 python3 main.py
 ```
+# Step: 5- Results 
