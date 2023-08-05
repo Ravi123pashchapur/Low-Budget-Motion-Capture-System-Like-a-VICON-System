@@ -7,12 +7,12 @@ This repo provides user to setup low-budget system which is ingeniously designed
 --> Clone the repo in your local directory.
 
 # Step: 2 - Hardware Requirement
---> ELP or any USB camera with brightness adjustment. 
---> USB connector. 
+--> ELP or any USB camera with brightness adjustment.  
+--> USB connector.  
 --> Central Processing system (Laptop or PC). 
 
 # Step: 3- Arrangement
---> Connect multiple cameras in given space to hub (Laptop).
+--> Connect multiple cameras in given space to hub (Laptop).  
 --> Read and cite the paper mention in this repo for camera calibrations.
 
 # Step: 4- Run the Script 
