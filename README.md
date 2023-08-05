@@ -11,9 +11,8 @@ This repo provides user to setup low-budget system which is ingeniously designed
 --> Clone the repo in your local directory.  
 --> Install the pre-requisites
 ```
-pip3 
+pip3 install cv2 math numpy matplotlib.pyplot
 ```
-
 
 ## Step: 2 - Hardware Requirement
 --> ELP or any USB camera with brightness adjustment.  
