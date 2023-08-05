@@ -3,7 +3,11 @@
 This repo provides user to setup low-budget system which is ingeniously designed to deliver results comparable to those achieved by high-end motion capture systems like VICON. Leveraging advanced algorithms and sensor technologies, our solution provides precise and accurate motion tracking capabilities at a fraction of the cost. This Project carried out @cranfield Universisty indoor autonomous lab.
 
 ## Step: 1 - Software Requirements
---> Install Python for preprocessing and Matlab & Simulink 2020b or higher version for post processing.  
+--> Install Python for preprocessing and Matlab & Simulink 2020b or higher version for post processing. 
+![image](https://github.com/Ravi123pashchapur/Low-Budget-Motion-Capture-System-Like-a-VICON-System/assets/56997905/7c035475-7aa9-49e0-8187-9acbf1230426)
+![image](https://github.com/Ravi123pashchapur/Low-Budget-Motion-Capture-System-Like-a-VICON-System/assets/56997905/f8047379-32bc-4bfd-8f04-ab60712ccc3e)
+
+
 --> Clone the repo in your local directory.
 
 ## Step: 2 - Hardware Requirement
