@@ -8,7 +8,12 @@ This repo provides user to setup low-budget system which is ingeniously designed
 ![image](https://github.com/Ravi123pashchapur/Low-Budget-Motion-Capture-System-Like-a-VICON-System/assets/56997905/f8047379-32bc-4bfd-8f04-ab60712ccc3e)
 
 
---> Clone the repo in your local directory.
+--> Clone the repo in your local directory.  
+--> Install the pre-requisites
+```
+pip3 
+```
+
 
 ## Step: 2 - Hardware Requirement
 --> ELP or any USB camera with brightness adjustment.  
